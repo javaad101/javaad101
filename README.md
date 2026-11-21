@@ -4,7 +4,7 @@ Quantitative finance, unitary & Hilbert-space representation learning, state-spa
 
 #### Working Paper & Quantum / State-Space Research
 - **[Why Common Stock Prevents State-Space Pricing](https://github.com/javaad101/Quantum-Asset-Pricing/blob/HEAD/paper/Why_Common_Stock_Prevents_State_Space_Pricing.pdf)** — Structural arbitrage from entity-level equity rank deficiency ($N \ll D$) and Eisenberg–Noe phantom equity ($\Delta_{\mathrm{phantom}} > 0$) under simultaneous liquidation, with pre-waterfall formula primitives for exact Arrow–Debreu state-price inversion ([repo & execution constraints](https://github.com/javaad101/Quantum-Asset-Pricing)).
-- **[Unitary-Equivalence](https://github.com/javaad101/Unitary-Equivalence)** — Lossless contextual equivalence via post-selected Bell states and the Ricochet / Hilbert–Schmidt identity $\langle\Phi^+|(U_1 \otimes U_2^*)|\Phi^+\rangle = \frac{1}{d}\operatorname{Tr}(U_1 U_2^\dagger)$, preserving non-invariant degrees of freedom in orthogonal subspaces.
+- **[Unitary-Equivalence](https://github.com/javaad101/Unitary-Equivalence)** — Lossless contextual equivalence via post-selected Bell states and the Ricochet / Hilbert–Schmidt identity $\langle\Phi^+|(U_1 \otimes U_2^*)|\Phi^+\rangle = \frac{1}{d}\,\mathrm{Tr}(U_1 U_2^\dagger)$, preserving non-invariant degrees of freedom in orthogonal subspaces.
 - **[Quantum-Clock](https://github.com/javaad101/Quantum-Clock)** — Bare-metal Apple Silicon GPU compute kernel (`QuantumClock.metal`) implementing unitary two-level state evolution over shared ARM64 `MTLBuffer` memory.
 
 #### Structured Financial & Statutory Systems
