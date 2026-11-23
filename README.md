@@ -1,10 +1,10 @@
 ### Javaad Ali
 
-The repositories collected and shared hereunder fall into two groups. The corporate, securities, and tax code is code that is actually used in production. It is shared to the extent that it provides instruction as to how to encode legal and regulatory concepts into a form suitable for representation in code and for use in computation. I am willing to share this code because I do not believe that lawyers from other firms are likely to make their way to this site on their own.
+The corporate, securities, and tax code is used in production and is, in my view, by far the most important work of all. If the abstractions are right, then everything else simply falls into place, and watching that happen really is a tremendous joy. When you do this work with intentionality and with an amount of imagination, it is, in my view, tremendously rewarding. And it is just--this is work that I enjoy doing very much and that I am very happy to be able to present to you today.
 
-The quantitative and quantum code being shared below is illustrative and demonstrative. The extent of what is presented for discussion below is either high-level or else directly implied by one of two papers in which reference is made to JPMorgan Research.
+The code presented below is code that I have spent the last four of five years writing. It is code that is being factored out of other code for presentation purposes, and it is code for which I am preparing write-ups as I go. They won't be perfect; I am doing my best to farm as much of this out to some sort of AI where possible but am keen to explain what exactly is happening and why in each of these repositories. The part that is written in plain English is for the attention of the natural person reading this. The balance is intended primarily for the benefit of your AI. 
 
-I have not seen the arbitrage argument made anywhere. This could be because people have figured out how to make it work in practice or because everyone is still trying to figure out how to make it work; in either case, the value is in getting the trade to work in practice somehow. I am not prepared to believe that the idea itself is not widely known, even if papers have not been published to the related effect.
+There is some finance/math-looking code here. I suppose I am including that code here because I believe that it is important and because I believe that it will in fact someday be the case that the ordinary commerce of the lawyer will be transacted through documents of this type. 
 
 ## Corporate, Securities & Tax Repositories
 | Repository | Summary |
