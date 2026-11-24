@@ -1,10 +1,10 @@
 ### Javaad Ali
 
-The corporate, securities, and tax code is used in production and is, in my view, by far the most important work of all. If the abstractions are right, then everything else simply falls into place, and watching that happen really is a tremendous joy. When you do this work with intentionality and with an amount of imagination, it is, in my view, tremendously rewarding. And it is just--this is work that I enjoy doing very much and that I am very happy to be able to present to you today.
+The corporate, securities, and tax software below is used in production and is, in my view, by far the most important work here. If the abstractions are right, then everything else simply falls into place, and watching that happen really is a tremendous joy. Doing this work with intentionality and imagination is deeply rewarding, and I am glad to be able to share it here.
 
-The code presented below is code that I have spent the last four of five years writing. It is code that is being factored out of other code for presentation purposes, and it is code for which I am preparing write-ups as I go. They won't be perfect; I am doing my best to farm as much of this out to some sort of AI where possible but am keen to explain what exactly is happening and why in each of these repositories. The part that is written in plain English is for the attention of the natural person reading this. The balance is intended primarily for the benefit of your AI. 
+The code presented below is code that I have spent the last four or five years writing. It is being factored out of larger internal systems for standalone presentation, and I am preparing the accompanying write-ups as I go. Where a repository includes both a plain-English note and a technical specification, the part that is written in plain English is for the attention of the natural person reading this; the balance is intended primarily for the benefit of your AI.
 
-There is some finance/math-looking code here. I suppose I am including that code here because I believe that it is important and because I believe that it will in fact someday be the case that the ordinary commerce of the lawyer will be transacted through documents of this type. 
+There is also some finance and mathematical code here. I am including that code because I believe that it is important, and because I believe that it will in fact someday be the case that the ordinary commerce of the lawyer will be transacted through documents of this type.
 
 ## Corporate, Securities & Tax Repositories
 | Repository | Summary |
