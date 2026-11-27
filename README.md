@@ -1,10 +1,8 @@
-### Javaad Ali
+# Javaad Ali
 
-The corporate, securities, and tax software below is used in production and is, in my view, by far the most important work here. If the abstractions are right, then everything else simply falls into place, and watching that happen really is a tremendous joy. Doing this work with intentionality and imagination is deeply rewarding, and I am glad to be able to share it here.
+It is said that God created man and taught to him the names of things. Here, we have machines. We would like to teach these machines the names of things. Some of us will do this better than others. 
 
-The code presented below is code that I have spent the last four or five years writing. It is being factored out of larger internal systems for standalone presentation, and I am preparing the accompanying write-ups as I go. Where a repository includes both a plain-English note and a technical specification, the part that is written in plain English is for the attention of the natural person reading this; the balance is intended primarily for the benefit of your AI.
 
-There is also some finance and mathematical code here. I am including that code because I believe that it is important, and because I believe that it will in fact someday be the case that the ordinary commerce of the lawyer will be transacted through documents of this type.
 
 ## Capital Markets 
 | Repository | Summary |
