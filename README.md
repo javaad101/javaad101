@@ -7,9 +7,10 @@ It is said that God created man and taught to him the names of things. Here, we 
 ## Capital Markets 
 | Repository | Summary |
 | :--- | :--- |
-| **[SECDatasetBuilder](https://github.com/javaad101/SECDatasetBuilder)** | Here, I demonstrate an approach to the problem of how to create a database essentially on demand for purposes that may include business development, getting a sense for what is market or, as here, for other reasons. |
-| **[EDGARExhibits](https://github.com/javaad101/EDGARExhibits)** | Here, I demonstrate a method for downloading and sorting all of the documents that have been incorporated by reference in a particular filing. Note that these are not necessarily the same as the documents listed in the header file to a particular filing. Header files are, or so I suspect, the extent of what data providers scrape from EDGAR. As a result, these exhibits can be difficult to access at scale. Here, I download and classify exhibits from every registration statement filed at any point since January 1, 2020. This worked out to 116,968 documents. ([macOS/iOS client](https://github.com/javaad101/EDGARExhibitsConsole)). |
-| **[SECFormStore](https://github.com/javaad101/SECFormStore)** | Here, I provide a taxonomy for 106 SEC EDGAR form & exhibit codes across 20 regulatory categories. |
+| **[SECFormStore](https://github.com/javaad101/SECFormStore)** | A taxonomy of forms upon which documents have been or may be filed with the SEC. |
+| **[SECDatasetBuilder](https://github.com/javaad101/SECDatasetBuilder)** | Create a database on demand |
+| **[EDGARExhibits](https://github.com/javaad101/EDGARExhibits)** | A routine for downloading and classifying exhibits from every registration statement filed at any point since January 1, 2020. ([macOS/iOS client](https://github.com/javaad101/EDGARExhibitsConsole)). |
+
 
 ## Tax Repositories
 | Repository | Summary |
