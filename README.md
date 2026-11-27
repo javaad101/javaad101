@@ -15,6 +15,6 @@ It is said that God created man and taught to him the names of things. Here, we 
 ## Tax
 | Repository | Summary |
 | :--- | :--- |
-| **[TaxData](https://github.com/javaad101/TaxData)** | The Internal Revenue Code of 1986, as amended and current as of November, 2026, together with the related Code of Federal Regulations applicable thereto, as amended and current as of November, 2026. |
+| **[26 U.S.C.](https://github.com/javaad101/TaxData)** | The Internal Revenue Code of 1986, as amended and current as of November, 2026, together with the related Code of Federal Regulations applicable thereto, as amended and current as of November, 2026. |
 | **[ISO20275](https://github.com/javaad101/ISO20275)** | A list of the entity types that exist in a given jurisdiction, for all entity-creating jurisdictions around the world.  Treas. Reg. § 301.7701. |
 
